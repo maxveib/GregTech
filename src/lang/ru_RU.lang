@@ -1,0 +1,34 @@
+{
+     "lang": "ru",
+	 "data": [
+	     {"uid": "gt.hammer", "name": "Молот"},
+		 
+		 {"uid": "gt.Copper.ingot", "name": "Медный слиток"},
+		 {"uid": "gt.Copper.dust", "name": "Медная пыль"},
+		 {"uid": "gt.Copper.plate", "name": "Медная пластина"},
+		 
+		 {"uid": "gt.Tin.ingot", "name": "Оловянный слиток"},
+		 {"uid": "gt.Tin.dust", "name": "Оловянная пыль"},
+		 {"uid": "gt.Tin.plate", "name": "Оловянная пластина"},
+		 
+		 {"uid": "gt.Lead.ingot", "name": "Свинцовый слиток"},
+		 {"uid": "gt.Lead.dust", "name": "Свинцовая пыль"},
+		 {"uid": "gt.Lead.plate", "name": "Свинцовая пластина"},
+		 
+		 {"uid": "gt.Iron.plate", "name": "Железная пластина"},
+		 {"uid": "gt.Iron.dust", "name": "Железная пыль"},
+		 
+		 {"uid": "gt.Gold.plate", "name": "Золотая пластина"},
+		 {"uid": "gt.Gold.dust", "name": "Золотая пыль"},
+		 
+		 {"uid": "gt.Bronze.ingot", "name": "Бронзовый слиток"},
+		 {"uid": "gt.Bronze.dust", "name": "Бронзовая пыль"},
+		 {"uid": "gt.Bronze.plate", "name": "Бронзовая пластина"},
+		 
+		 {"uid": "Wood Pickaxe", "name": "Деревянная кирка"},
+		 {"uid": "Wood Sword", "name": "Деревянный меч"},
+		 {"uid": "Wood Axe", "name": "Деревянный топор"},
+		 {"uid": "Wood Shovel", "name": "Деревянная лопата"},
+		 {"uid": "Wood Hoe", "name": "Деревянная мотыга"}
+	 ]
+}

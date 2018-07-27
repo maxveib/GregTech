@@ -1,0 +1,28 @@
+{
+     "lang": "en",
+	 "data": [
+	     {"uid": "gt.hammer", "name": "Hammer"},
+		 
+		 {"uid": "gt.Copper.ingot", "name": "Copper ingot"},
+		 {"uid": "gt.Copper.dust", "name": "Copper dust"},
+		 {"uid": "gt.Copper.plate", "name": "Copper plate"},
+		 
+		 {"uid": "gt.Tin.ingot", "name": "Tin ingot"},
+		 {"uid": "gt.Tin.dust", "name": "Tin dust"},
+		 {"uid": "gt.Tin.plate", "name": "Tin plate"},
+		 
+		 {"uid": "gt.Lead.ingot", "name": "Lead ingot"},
+		 {"uid": "gt.Lead.dust", "name": "Lead dust"},
+		 {"uid": "gt.Lead.plate", "name": "Lead plate"},
+		 
+		 {"uid": "gt.Iron.plate", "name": "Iron plate"},
+		 {"uid": "gt.Iron.dust", "name": "Iron dust"},
+		 
+		 {"uid": "gt.Gold.plate", "name": "Gold plate"},
+		 {"uid": "gt.Gold.dust", "name": "Gold plate"},
+		 
+		 {"uid": "gt.Bronze.ingot", "name": "Bronze ingot"},
+		 {"uid": "gt.Bronze.dust", "name": "Bronze dust"},
+		 {"uid": "gt.Bronze.plate", "name": "Bronze plate"}
+	 ]
+}
